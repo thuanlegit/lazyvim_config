@@ -34,3 +34,16 @@ Safety select entries with `<CR>`
 ### Installation
 
 - Copy the `show-hidden-files.lua` file to `~/.config/nvim/lua/plugins`
+
+## SSH Remote
+
+"VSCode SSH Remote"-like feature
+
+### Installation
+
+- Copy the `ssh-remote` file to `~/.config/nvim/lua/plugins`
+
+### Usage
+
+- Start connection: `:RemoteStart`
+- Stop connection: `:RemoteStop`
