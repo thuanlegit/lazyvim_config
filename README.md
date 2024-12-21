@@ -35,7 +35,7 @@ Safety select entries with `<CR>`
 
 - Copy the `show-hidden-files.lua` file to `~/.config/nvim/lua/plugins`
 
-## SSH Remote
+## [SSH Remote](plugins/ssh-remote.lua)
 
 "VSCode SSH Remote"-like feature
 
@@ -47,3 +47,18 @@ Safety select entries with `<CR>`
 
 - Start connection: `:RemoteStart`
 - Stop connection: `:RemoteStop`
+
+## [Telescope](https://github.com/nvim-telescope/telescope.nvim)
+
+Find, Filter, Preview, Pick
+
+### Installation
+
+- `:LazyExtras` -> `editor.telescope`
+
+### Usage
+
+- Find files: `Space` - `Space`
+- Find buffers: `Space` - `,`
+- Grep: `Space` - `/`
+- Find command history: `Space` - `:`
