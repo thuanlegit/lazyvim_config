@@ -47,3 +47,11 @@ Safety select entries with `<CR>`
 
 - Start connection: `:RemoteStart`
 - Stop connection: `:RemoteStop`
+
+## Git Blame
+
+Show commit info on each line of code
+
+### Installation
+
+- Copy the `git-blame` file to `~/.config/nvim/lua/plugins`
