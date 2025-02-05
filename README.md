@@ -63,10 +63,18 @@ Find, Filter, Preview, Pick
 - Grep: `Space` - `/`
 - Find command history: `Space` - `:`
 
-## Git Blame
+## [Git Blame](plugins/git-blame.lua)
 
 Show commit info on each line of code
 
 ### Installation
 
 - Copy the `git-blame` file to `~/.config/nvim/lua/plugins`
+
+## [One Dark Theme](plugins/one-dark.lua)
+
+Use One Dark Theme
+
+### Installation
+
+- Copy the `one-dark.lua` file to `~/.config/nvim/lua/plugins`
